@@ -1,10 +1,10 @@
-package com.desigPatterns;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DesigPatternsCodeApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
