@@ -1,5 +1,9 @@
-package com.designpatterns.creationalpatterns.factorymethod.creator;
+package com.designpatterns.creationalpatterns.factorymethod;
 
+import com.designpatterns.creationalpatterns.factorymethod.creator.FactoryMethodObjectN;
+import com.designpatterns.creationalpatterns.factorymethod.creator.FactoryMethodObjectOne;
+import com.designpatterns.creationalpatterns.factorymethod.creator.FactoryMethodObjectTwo;
+import com.designpatterns.creationalpatterns.factorymethod.creator.FactoryMethodObjectZero;
 import java.util.Arrays;
 
 public class StartFactoryMethod {
